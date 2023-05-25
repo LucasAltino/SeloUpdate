@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url(../ProjetoSelo/img/title.png);
+    background-size: cover;
+    height: 96vh;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    background-color: #3CA3DA;
+}
+main{
+    background-image: url(../ProjetoSelo/img/logoElement.png);
+    background-size: contain;
+    height: 200vh;
+    width: 98vw;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    background-position: 48%;
+    background-color: #3CA3DA;
+}
